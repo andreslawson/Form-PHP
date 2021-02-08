@@ -21,9 +21,9 @@ if ($total == 0) {
   $sql = "INSERT INTO formando (nome, apelido, cidade, email, obs) VALUES ('$nome', '$apelido', '$cidade','$email','$obs')";
   mysqli_query($connect, $sql) or die($sql);
   mysqli_close($connect);
-  $path = "formandosRegistar.html?msg=OK";
+  $path = "index.html?msg=OK";
 } else {
-  $path = "formandosRegistar.html?msg=repetido";
+  $path = "index.html?msg=repetido";
 }
 
 //Close Connection

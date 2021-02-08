@@ -1,7 +1,7 @@
 # Formulário em PHP
 Formulário de Registro em PHP
 
-<img src="form-image.png" alt="Imagem do Formulário" width="785" height="800">
+<img src="form-image.png" alt="Imagem do Formulário" width="300" height="400">
 
 ## 💻 Pré-requisitos
 

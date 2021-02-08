@@ -1,6 +1,8 @@
 # Formulário em PHP
 Formulário de Registro em PHP
 
+<img src="form-image.png" alt="Imagem do Formulário">
+
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
